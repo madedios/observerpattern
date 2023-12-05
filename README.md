@@ -35,4 +35,5 @@ Ensure that the implementation follows object-oriented design principles and pro
 
 # UML Diagram
 
-![Lab 6](https://github.com/madedios/adapterpattern/assets/77655167/b9edd819-6700-4353-bc69-263e42a4b091)
+![uml](https://github.com/madedios/observerpattern/assets/77655167/adc272f5-9683-40fa-b30c-19f9965e3f4e)
+
